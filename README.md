@@ -1,6 +1,2 @@
 # game-ue4-2
-A test repository for a imaginary game............................................... I need friends.
-
-
-
-Oh yes!!!!!!
+I am a small boy,who is trying to make a high-end game...........................................................................I need Friends.
